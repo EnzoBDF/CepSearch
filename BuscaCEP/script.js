@@ -14,4 +14,9 @@ function buscaCep(){
                 bairro.value = "    "+data.district;
                 logradouro.value = "    "+data.address;
             })
+            
+            
+            if () {
+                
+            }
 }
