@@ -15,8 +15,5 @@ function buscaCep(){
                 logradouro.value = "    "+data.address;
             })
             
-            
-            if () {
-                
-            }
+
 }
